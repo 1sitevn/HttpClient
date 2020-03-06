@@ -1,5 +1,5 @@
 {
-  "name": "onesite/http-client",
+  "name": "1site/http-client",
   "description": "HTTP Client request/response.",
   "license": "MIT",
   "authors": [
@@ -18,7 +18,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "v1.0.4-dev"
+      "dev-master": "v1.0-dev"
     }
   },
   "autoload": {
