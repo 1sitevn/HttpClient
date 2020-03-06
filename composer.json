@@ -1,5 +1,5 @@
 {
-  "name": "1sitevn/http-client",
+  "name": "onesite/http-client",
   "description": "HTTP Client request/response.",
   "license": "MIT",
   "authors": [
@@ -18,7 +18,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "1.0.3"
+      "dev-master": "v1.0.4"
     }
   },
   "autoload": {
