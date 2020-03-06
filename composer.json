@@ -1,6 +1,7 @@
 {
   "name": "1sitevn/http-client",
   "description": "HTTP Client request/response.",
+  "license": "MIT",
   "authors": [
     {
       "name": "1Site.vn",
